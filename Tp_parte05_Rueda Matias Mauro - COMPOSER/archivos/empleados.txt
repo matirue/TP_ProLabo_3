@@ -1,0 +1,8 @@
+Rueda - Matias Mauro - 1000000 - M - 100 - 20000 - Mañana - ./fotos/tormenta2.jpg
+
+Martinez - Ana - 1000001 - F - 101 - 25000 - Noche - ./fotos/mar.jpg
+
+Rodriguez - Rodrigo - 1000002 - M - 102 - 18500 - Tarde - ./fotos/tormenta.jpg
+
+Cambio - Bien - 33333333 - F - 234 - 18500 - Noche - ./fotos/perro.jpg
+
